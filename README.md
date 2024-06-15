@@ -1,0 +1,2 @@
+# DualDestinyGenerator
+i was bored
